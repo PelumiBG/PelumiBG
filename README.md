@@ -1,53 +1,60 @@
-# 👋 Hi, I'm Joshua Bello  
+# 👋 Hi, I'm Joshua Pelumi Bello  
 ### Backend Developer | Node.js | Express | Django
 
-I’m passionate about building scalable backend systems, APIs, and server-side architectures that power real-world applications.
+I’m passionate about building scalable backend systems, APIs, authentication flows, and server-side architectures that power real-world applications.
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack
 
-### **Backend Development**
-- Node.js  
-- Express.js  
-- Django  
-- REST APIs  
-- Authentication (JWT, Sessions)  
-- Nodemailer  
-- Multer  
-- Mongoose / Prisma
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,py" />
+</p>
 
-### **Databases**
-- MongoDB  
-- MySQL  
+### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### **Frontend (Basic)**
-- HTML  
-- CSS  
-- JavaScript  
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
 
 ---
 
-## What I'm Currently Learning
+## Currently Learning
 - Advanced Django  
-- API security best practices  
-- Cloud deployment (Render, Railway, AWS, Vercel)  
+- API Security  
+- Linux shell scripting  
+- Cloud deployment (AWS, Render, Railway)
 
 ---
 
-## Open to Collaborations
-- Backend-heavy projects  
-- API design  
+## 🤝 Open to Collaboration
+- Backend-heavy apps  
+- Job boards  
 - Authentication systems  
-- Job board apps  
-- Lounge management apps  
-- MERN/Full-stack projects
+- API services  
+- Lounge management systems  
 
 ---
 
-## 📫 Contact Me
-Email: **bellojoshua2019@gmail.com**  
-GitHub: https://github.com/PelumiBG  
-LinkedIn: https://linkedin.com/in/joshua–bello124  
+## 📫 Contact Me  
+**Email:** bellojoshua2019@gmail.com  
+**GitHub:** https://github.com/PelumiBG  
+**LinkedIn:** https://linkedin.com/in/joshua–bello124  
 
 ---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PelumiBG&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PelumiBG&layout=compact&theme=radical" height="170" />
+</p>
