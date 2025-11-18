@@ -7,8 +7,6 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 
 ## ⚙️ Tech Stack
 
-## ⚙️ Tech Stack
-
 ### **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
@@ -46,17 +44,14 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 ## Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=django" height="40" title="Advanced Django" />
-  <img src="https://skillicons.dev/icons?i=aws,render,vercel" height="40" title="Cloud Deployment" />
 </p>
 
 ---
 
 ## 🤝 Open to Collaboration
-- Backend-heavy projects  
-- API design and authentication systems  
-- Job board apps  
-- Lounge management systems  
-- MERN / Full-stack projects
+- Backend projects  
+- API design and authentication systems   
+- Open to frontend and backend web development opportunities
 
 ---
 
