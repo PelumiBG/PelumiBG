@@ -18,7 +18,6 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 ### **Database**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
 </p>
 
@@ -26,8 +25,6 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
 </p>
 
 ### **Tools**
@@ -36,7 +33,6 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux" />
 </p>
 
 ---
