@@ -9,7 +9,7 @@ I’m passionate about building scalable backend systems, APIs, authentication f
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python" height="40" />
 </p>
 
 ### **Database**
@@ -29,12 +29,14 @@ I’m passionate about building scalable backend systems, APIs, authentication f
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,aws,render,vercel" height="40" />
-  <img src="https://img.shields.io/badge/API%20Security-FE5196?style=flat-square&logo=security" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" title="Advanced Django" />
+  <img src="https://img.shields.io/badge/API%20Security-FE5196?style=flat-square&logo=security" height="40" title="API Security" />
+  <img src="https://skillicons.dev/icons?i=aws,render,vercel" height="40" title="Cloud Deployment" />
 </p>
+
 
 ---
 
@@ -49,7 +51,7 @@ I’m passionate about building scalable backend systems, APIs, authentication f
 ## 📫 Contact Me  
 **Email:** bellojoshua2019@gmail.com  
 **GitHub:** https://github.com/PelumiBG  
-**LinkedIn:** https://linkedin.com/in/joshua–bello124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+**LinkedIn:** https://linkedin.com/in/joshua–bello124
 
 ---
 
