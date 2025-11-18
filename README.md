@@ -7,24 +7,38 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 
 ## ⚙️ Tech Stack
 
+## ⚙️ Tech Stack
+
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,python" height="40" title="Node.js / Express / Django / Python" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
 </p>
 
 ### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="40" title="MongoDB / PostgreSQL / MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
 </p>
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40" title="HTML / CSS / JavaScript / React" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
 </p>
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" height="40" title="Git / GitHub / Postman / VS Code / Linux" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux" />
 </p>
 
 ---
@@ -32,7 +46,6 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 ## Currently Learning
 <p>
   <img src="https://skillicons.dev/icons?i=django" height="40" title="Advanced Django" />
-  <img src="https://img.shields.io/badge/API%20Security-FE5196?style=flat-square&logo=security" height="40" title="API Security" />
   <img src="https://skillicons.dev/icons?i=aws,render,vercel" height="40" title="Cloud Deployment" />
 </p>
 
