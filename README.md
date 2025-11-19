@@ -9,10 +9,10 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" title="Django" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" /> **Node.js**  
+  <img src="https://skillicons.dev/icons?i=express" height="30" /> **Express.js**  
+  <img src="https://skillicons.dev/icons?i=django" height="30" /> **Django**  
+  <img src="https://skillicons.dev/icons?i=python" height="30" /> **Python**
 </p>
 
 ### **Database**
