@@ -7,40 +7,39 @@ I’m passionate about building scalable backend systems, APIs, and server-side 
 
 ## ⚙️ Tech Stack
 
-### **Backend**
+### **Backend**  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" /> **Node.js**  
-  <img src="https://skillicons.dev/icons?i=express" height="30" /> **Express.js**  
-  <img src="https://skillicons.dev/icons?i=django" height="30" /> **Django**  
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" /> **Node.js** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="30" /> **Express.js** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=django" height="30" /> **Django** &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="30" /> **Python**
 </p>
 
-### **Database**
+### **Database**  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" /> **MongoDB** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" /> **PostgreSQL** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" /> **MySQL**
 </p>
 
-### **Frontend**
+### **Tools**  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" /> **Git** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="30" /> **GitHub** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" /> **VS Code**
 </p>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=django" height="40" title="Advanced Django" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" /> **Advanced Django** &nbsp;&nbsp;  
+  <img src="https://img.shields.io/badge/API%20Security-FE5196?style=for-the-badge&logo=security" height="25" /> **API Security** &nbsp;&nbsp;  
+  <img src="https://skillicons.dev/icons?i=aws" height="30" /> **AWS** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=render" height="30" /> **Render** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" /> **Vercel**
 </p>
+
 
 ---
 
